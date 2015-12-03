@@ -1340,7 +1340,7 @@ return array(
             'separator' => 'string',
         ),
         'Zend\Validator\IsInstanceOf' => array(
-            'classname' => 'string',
+            'className' => 'string',
         ),
         'Zend\Validator\LessThan' => array(
             'inclusive' => 'bool',
